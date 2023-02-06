@@ -25,6 +25,7 @@ Here's a walkthrough of implemented features:
 
 ![](https://i.imgur.com/oRvOiHm.gif)
 
+Link to the gif: https://i.imgur.com/oRvOiHm.gif
 
 GIF created with ezgif.com  
 
