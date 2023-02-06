@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![](https://i.imgur.com/46zmxSk.gif)
+![](https://i.imgur.com/oRvOiHm.gif)
 
 
 GIF created with ezgif.com  
