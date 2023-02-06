@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-CodePath Web102 Preworg - Gif.gif
+![alt text](CodePath Web102 Prework.gif)
 GIF created with ezgif.com  
 
 
