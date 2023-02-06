@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![](https://i.imgur.com/46zmxSk.gif)
-
-
+![alt text](CodePath Web102 Prework.gif)
 GIF created with ezgif.com  
 
 
